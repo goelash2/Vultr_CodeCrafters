@@ -20,6 +20,7 @@ return [
 
     'allowed_origins' => [
         'http://localhost:5173', // Your React app's URL
+        'http://localhost:5174'
     ],
 
     'allowed_origins_patterns' => [],

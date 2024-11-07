@@ -10,3 +10,8 @@
 body{
     background-color: #fffcea;
 }
+/* In your global CSS or Tailwind's CSS file */
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Example text shadow */
+}
+  
