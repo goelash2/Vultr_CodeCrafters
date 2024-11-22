@@ -1,2 +1,0 @@
-# CodeCrafters
-for vultr hackathon
